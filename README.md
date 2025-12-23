@@ -314,30 +314,19 @@ docker logs crm_api
 - **Erro de conexão com Redis**: Verifique se o Redis está rodando e se a senha está correta
 - **Traefik não roteia**: Verifique se a rede está correta e se o Traefik está na mesma rede
 
-## 📚 Documentação
-
-- [Documentação da API](api-docs.html)
-- [Página de Instalação Completa](instalacao.html)
-- [Suporte](suporte.html)
-
 ## 💬 Suporte
 
 Se você encontrar problemas durante a instalação, entre em contato através do nosso grupo do WhatsApp para ajuda e suporte:
 
 [**Acessar Grupo do WhatsApp**](https://chat.whatsapp.com/H7RHjDI3GR62iodcSUV3G1)
 
-Ou consulte nossa [página de suporte](suporte.html).
-
 ## 📄 Licença
 
-Este projeto foi desenvolvido para o Sofia CRM. Consulte os [Termos de Uso](termos-de-uso.html) para mais informações.
+Este projeto foi desenvolvido para o Sofia CRM.
 
 ## 🔗 Links Úteis
 
 - [Site Oficial](https://sofiacrm.com.br)
-- [Funcionalidades](index.html#funcionalidades)
-- [Planos e Preços](index.html#precos)
-- [FAQ](index.html#faq)
 
 ---
 
